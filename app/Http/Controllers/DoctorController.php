@@ -49,3 +49,7 @@ class DoctorController extends Controller
         return redirect()->back()->with('success', 'Edit Doctor is Successful....');
     }
 }
+
+
+
+
